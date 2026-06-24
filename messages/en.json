@@ -1,0 +1,8 @@
+{
+  "Home": {
+    "greeting": "Hello, world"
+  },
+  "LocaleSwitcher": {
+    "label": "Language"
+  }
+}
